@@ -10,4 +10,5 @@ Overview of the storage box
 System overview
 ![ภาพรวมระบบ](https://user-images.githubusercontent.com/59821534/218810584-66c12df8-9a55-4e06-80d0-b10ec7842b10.png)
 
-
+Video
+https://drive.google.com/file/d/1IKEYeWPpCxdO1OUciiAdBXWQdaHM0kxH/view?usp=sharing
